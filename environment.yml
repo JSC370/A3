@@ -1,0 +1,12 @@
+name: base
+channels:
+  - plotly
+  - conda-forge
+  - defaults
+dependencies:
+  - ipywidgets=7.5.1
+  - numpy=1.17.2
+  - numpy-base=1.17.2
+  - numpydoc=0.9.1
+  - pandas=0.25.1
+  - plotly=4.5.1
